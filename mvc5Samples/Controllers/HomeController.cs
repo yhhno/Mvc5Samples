@@ -8,6 +8,10 @@ namespace mvc5Samples.Controllers
 {
     public class HomeController : Controller
     {
+        /// <summary>
+        /// home
+        /// </summary>
+        /// <returns></returns>
         public ActionResult Index()
         {
             return View();
