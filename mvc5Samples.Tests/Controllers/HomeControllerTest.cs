@@ -12,6 +12,9 @@ namespace mvc5Samples.Tests.Controllers
     [TestClass]
     public class HomeControllerTest
     {
+        /// <summary>
+        /// 测试通过 index
+        /// </summary>
         [TestMethod]
         public void Index()
         {
