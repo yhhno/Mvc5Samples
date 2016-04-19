@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc5Samples", "mvc5Samples\mvc5Samples.csproj", "{DA0BFBCF-CFCA-42A7-A113-3D886402155A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc5Samples.Tests", "mvc5Samples.Tests\mvc5Samples.Tests.csproj", "{2365E8FC-A199-4E30-A7F3-B4F07E5FE673}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc5WithGlimpse", "Mvc5WithGlimpse\Mvc5WithGlimpse.csproj", "{3307C54A-D37A-47EC-A8B1-424C0991F475}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DA0BFBCF-CFCA-42A7-A113-3D886402155A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA0BFBCF-CFCA-42A7-A113-3D886402155A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA0BFBCF-CFCA-42A7-A113-3D886402155A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2365E8FC-A199-4E30-A7F3-B4F07E5FE673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2365E8FC-A199-4E30-A7F3-B4F07E5FE673}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2365E8FC-A199-4E30-A7F3-B4F07E5FE673}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2365E8FC-A199-4E30-A7F3-B4F07E5FE673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3307C54A-D37A-47EC-A8B1-424C0991F475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3307C54A-D37A-47EC-A8B1-424C0991F475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3307C54A-D37A-47EC-A8B1-424C0991F475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3307C54A-D37A-47EC-A8B1-424C0991F475}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
